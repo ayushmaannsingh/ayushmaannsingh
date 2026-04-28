@@ -1,5 +1,12 @@
 # 💫 About Me:
-Large web projects AND Practice datasets for data analysis.<br>Beginner-friendly web development projects AND Data analysis & SQL practice projects<br>Data Analysis & Data Management AND Improving problem-solving and communication skills<br>HTML, CSS, JavaScript, React js , TailwindCSS, Nodejs , Express js, MongoDB, SQL  & data analysis fundamentals<br>I enjoy learning new tech skills and improving myself every day 🚀
+I am an aspiring Data Analyst with a strong passion for turning raw data into meaningful insights. I have built a solid foundation in data analysis using tools like Python, SQL, Excel, and Power BI.
+I enjoy working on real-world datasets, performing data cleaning, exploratory data analysis (EDA), and creating interactive dashboards that help in better decision-making.
+🚀 Key Skills:
+Python (Pandas, NumPy, Matplotlib)
+SQL (Data Querying & Analysis)
+Data Visualization (Power BI,  Excel)
+Data Cleaning & EDA
+Basic Machine Learnin
 
 
 ## 🌐 Socials:
